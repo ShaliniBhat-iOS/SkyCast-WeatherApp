@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C18A4A8-30ED-46DD-8AED-8E383023EAF7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90594836-00E0-4D91-B51E-E4793963936A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyCast-WeatherApp/Controller/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "didUpdateWeather(_:weatherData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90594836-00E0-4D91-B51E-E4793963936A - 8c165589a821e9c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyCast_WeatherApp.WeatherViewController.textFieldDidEndEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "SkyCast-WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalinibhat/Desktop/iOS/Swift-From-Scratch/SkyCast-WeatherApp/SkyCast-WeatherApp/Controller/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "90594836-00E0-4D91-B51E-E4793963936A - ce5484757994b7de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SkyCast_WeatherApp.WeatherViewController.didUpdateWeather(_: SkyCast_WeatherApp.WeatherManager, weatherData: SkyCast_WeatherApp.WeatherModel) -&gt; ()"
+                  moduleName = "SkyCast-WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalinibhat/Desktop/iOS/Swift-From-Scratch/SkyCast-WeatherApp/SkyCast-WeatherApp/Controller/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1310786-3B33-4D1C-8EC2-4E980A1D6272"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SkyCast-WeatherApp/Controller/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "textFieldDidEndEditing(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1310786-3B33-4D1C-8EC2-4E980A1D6272 - 14db9b789524f52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyCast_WeatherApp.WeatherViewController.textFieldShouldEndEditing(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "SkyCast-WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalinibhat/Desktop/iOS/Swift-From-Scratch/SkyCast-WeatherApp/SkyCast-WeatherApp/Controller/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "B1310786-3B33-4D1C-8EC2-4E980A1D6272 - 8c165589a821e86b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SkyCast_WeatherApp.WeatherViewController.textFieldDidEndEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "SkyCast-WeatherApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shalinibhat/Desktop/iOS/Swift-From-Scratch/SkyCast-WeatherApp/SkyCast-WeatherApp/Controller/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "271">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
